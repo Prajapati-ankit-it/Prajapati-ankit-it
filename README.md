@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-![Profile Viewer]((https://img.shields.io/badge/Profile%20Views))
-![Profile views]((https://img.shields.io/badge/Profile%20Views))
-
 <!--
 **Prajapati-ankit-it/Prajapati-ankit-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
