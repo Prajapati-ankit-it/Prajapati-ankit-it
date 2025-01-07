@@ -24,7 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prajapati-ankit-it&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajapati-ankit-it&" alt="peter-kimanzi" /></p>
 <!--
 **Prajapati-ankit-it/Prajapati-ankit-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
