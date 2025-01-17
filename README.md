@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/ankit-prajapati-67a784250)
 
-- 💬 Ask me about ** C, C++, APIs, Node.js,  React.js, PHP, Python, Type script**
+- 💬 Ask me about ** C, C++, APIs, Node.js,  React.js, PHP, Python, Type script
 
 - 📫 How to reach me **ankit.prajapati.it@gmail.com**
 
