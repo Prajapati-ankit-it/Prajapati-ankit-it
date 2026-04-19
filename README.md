@@ -5,10 +5,6 @@
 💬 **Ask me about:** Node.js, JavaScript, TypeScript, Python, Redis, Elasticsearch, Docker, Kubernetes, and DevOps.<br><br>
 ⚡ **Fun fact:** I love building large-scale systems and solving hard logic problems.
 
----
-
-## 🌐 Socials: 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Prajapati-ankit-it)  
 
 ---
 
